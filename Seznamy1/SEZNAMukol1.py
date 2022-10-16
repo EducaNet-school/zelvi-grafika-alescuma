@@ -8,3 +8,5 @@ for num in range(dol,hor+1):
                 break
         else:
             print(num)
+
+#pekne zjisteni prvocisel, jen chybi ulozeni do seznsmu 
