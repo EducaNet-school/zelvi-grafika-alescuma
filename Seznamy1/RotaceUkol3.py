@@ -11,3 +11,5 @@ def řada(rada):
 #řada
 #Dodělat možnost na jakou stranu chceme.
 print(seznamos)
+
+#funguje, ale k cemu je ta funkce? Nepouzivej hacky a carky

@@ -23,3 +23,4 @@ else:
        vypoc += 1
 
  #Dodělatz list až dojdu dom
+ # tiskne mene, nez pozaduji, 0 nepatri do rady
